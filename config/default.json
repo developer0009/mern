@@ -1,0 +1,4 @@
+{
+  "mongoURL": "mongodb+srv://developer0009:bqHBxf9rbXCVtv9l@mern.07dde.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "authenticationsucks"
+}
